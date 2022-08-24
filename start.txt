@@ -1,0 +1,1 @@
+This message in displayed in a file, which is created in bash. It is crated and transfered from local repository to remote repository.
